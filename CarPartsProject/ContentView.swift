@@ -2,20 +2,14 @@
 //  ContentView.swift
 //  CarPartsProject
 //
-//  Created by Mansour Alhouti on 21/10/2026.
+//  Created by Mansour Alhouti on 02/11/2026.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
+        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
 }
 
